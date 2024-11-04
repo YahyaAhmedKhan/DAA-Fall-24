@@ -47,7 +47,7 @@ public class Solutions {
                 { 0, 1 }
         };
 
-        int[] answers2 = { 5, 4, 1 };
+        int[] answers2 = { 4, 3, 1 };
 
         for (int i = 0; i < 3; i++) {
             int ans = findFirstOne(testcase2[i]);

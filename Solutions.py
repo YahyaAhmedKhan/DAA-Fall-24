@@ -42,7 +42,7 @@ if __name__ == "__main__":
         [0, 1]
     ]
 
-    answers2 = [5, 4, 1]
+    answers2 = [4, 3, 1]
 
     for i in range(3):
         ans = Solutions.find_first_one(testcase2[i])
